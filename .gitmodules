@@ -25,3 +25,6 @@
 [submodule "c08"]
 	path = c08
 	url = git@github.com:paulo-santana/basecamp-c08.git
+[submodule "rush00"]
+	path = rush00
+	url = git@github.com:paulo-santana/basecamp-rush00.git
