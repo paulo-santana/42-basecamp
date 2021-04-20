@@ -4,3 +4,24 @@
 [submodule "c01"]
 	path = c01
 	url = git@github.com:paulo-santana/basecamp-c01.git
+[submodule "c02"]
+	path = c02
+	url = git@github.com:paulo-santana/basecamp-c02.git
+[submodule "c03"]
+	path = c03
+	url = git@github.com:paulo-santana/basecamp-c03.git
+[submodule "c04"]
+	path = c04
+	url = git@github.com:paulo-santana/basecamp-c04.git
+[submodule "c05"]
+	path = c05
+	url = git@github.com:paulo-santana/basecamp-c05.git
+[submodule "c06"]
+	path = c06
+	url = git@github.com:paulo-santana/basecamp-c06.git
+[submodule "c07"]
+	path = c07
+	url = git@github.com:paulo-santana/basecamp-c07.git
+[submodule "c08"]
+	path = c08
+	url = git@github.com:paulo-santana/basecamp-c08.git
