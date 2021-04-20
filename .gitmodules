@@ -1,3 +1,6 @@
 [submodule "c00"]
 	path = c00
 	url = git@github.com:paulo-santana/basecamp-c00.git
+[submodule "c01"]
+	path = c01
+	url = git@github.com:paulo-santana/basecamp-c01.git
