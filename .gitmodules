@@ -28,3 +28,6 @@
 [submodule "rush00"]
 	path = rush00
 	url = git@github.com:paulo-santana/basecamp-rush00.git
+[submodule "rush01"]
+	path = rush01
+	url = git@github.com:paulo-santana/basecamp-rush01.git
