@@ -31,3 +31,9 @@
 [submodule "rush01"]
 	path = rush01
 	url = git@github.com:paulo-santana/basecamp-rush01.git
+[submodule "shell00"]
+	path = shell00
+	url = git@github.com:paulo-santana/basecamp-shell00.git
+[submodule "shell01"]
+	path = shell01
+	url = git@github.com:paulo-santana/basecamp-shell01.git
